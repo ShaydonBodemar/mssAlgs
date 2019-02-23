@@ -117,6 +117,15 @@ public class mssAlgs {
 
         public static void MSS1(int[] numSeq) {
 
+                int n = numSeq.length, maxSum = 0;
+                for(int i = 0; i < n; i++) {
+                        for(int j = i; j < n; j++) {
+                                int sum = 0;
+                                for(int k = i; k <= j; k++) {
+
+                                }
+                        }
+                }
 
 
         }
