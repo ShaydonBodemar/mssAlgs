@@ -1,0 +1,178 @@
+Script started on Sun 24 Feb 2019 03:20:58 AM PST
+^[]0;sbodemar@lh-cslab-009:~/COMP285/proj1^G^[[?1034h[sbodemar@lh-cslab-009 proj1]$ java mssAlgs
+
+
+Welcome to the MSS Algorithm Tester!
+What is the name of the file you would like to select?
+exfiles/test1-^H ^H.txt
+
+
+What Algorithm would would you like to use? Enter the associated number. (1-5)
+1: MSS1 (3 Embedded Loops)
+2: MSS2 (2 Embedded Loops)
+3: MSS3 (Recursive QuickSelect)
+4: MSS4 (Single Loop)
+5: All 4 Algorithms At Once
+1
+
+---------------------------------------------------------------------------------------------------
+
+MSS1 Result: 1945
+MSS1 Execution Time: 79682273
+
+
+Would you like to repeat (y/n)?
+y
+
+
+Welcome to the MSS Algorithm Tester!
+What is the name of the file you would like to select?
+exfiles/test1-txt^H ^H^H ^H^H ^H^H ^H.txt
+
+
+What Algorithm would would you like to use? Enter the associated number. (1-5)
+1: MSS1 (3 Embedded Loops)
+2: MSS2 (2 Embedded Loops)
+3: MSS3 (Recursive QuickSelect)
+4: MSS4 (Single Loop)
+5: All 4 Algorithms At Once
+2
+
+---------------------------------------------------------------------------------------------------
+
+MSS2 Result: 1945
+MSS2 Execution Time: 4340694
+
+
+Would you like to repeat (y/n)?
+y
+
+
+Welcome to the MSS Algorithm Tester!
+What is the name of the file you would like to select?
+exfiles/test1.txt
+
+
+What Algorithm would would you like to use? Enter the associated number. (1-5)
+1: MSS1 (3 Embedded Loops)
+2: MSS2 (2 Embedded Loops)
+3: MSS3 (Recursive QuickSelect)
+4: MSS4 (Single Loop)
+5: All 4 Algorithms At Once
+3
+
+---------------------------------------------------------------------------------------------------
+
+MSS3 Result: 1945
+MSS3 Execution Time: 1732252
+
+
+Would you like to repeat (y/n)?
+y
+
+
+Welcome to the MSS Algorithm Tester!
+What is the name of the file you would like to select?
+test1.txt^H ^H^H ^H^H ^H^H ^H^H ^H^H ^H^H ^H^H ^H^H ^Hexfiles/test1.txt
+
+
+What Algorithm would would you like to use? Enter the associated number. (1-5)
+1: MSS1 (3 Embedded Loops)
+2: MSS2 (2 Embedded Loops)
+3: MSS3 (Recursive QuickSelect)
+4: MSS4 (Single Loop)
+5: All 4 Algorithms At Once
+4
+
+---------------------------------------------------------------------------------------------------
+
+MSS4 Result: 1945
+MSS4 Execution Time: 91971
+
+
+Would you like to repeat (y/n)?
+y
+
+
+Welcome to the MSS Algorithm Tester!
+What is the name of the file you would like to select?
+exfiles/test1.txt
+
+
+What Algorithm would would you like to use? Enter the associated number. (1-5)
+1: MSS1 (3 Embedded Loops)
+2: MSS2 (2 Embedded Loops)
+3: MSS3 (Recursive QuickSelect)
+4: MSS4 (Single Loop)
+5: All 4 Algorithms At Once
+5
+
+---------------------------------------------------------------------------------------------------
+
+MSS1 Result: 1945
+MSS1 Execution Time: 79388960
+MSS2 Result: 1945
+MSS2 Execution Time: 6454514
+MSS3 Result: 1945
+MSS3 Execution Time: 103714
+MSS4 Result: 1945
+MSS4 Execution Time: 32221
+
+
+Would you like to repeat (y/n)?
+y
+
+
+Welcome to the MSS Algorithm Tester!
+What is the name of the file you would like to select?
+incorrectinput.txt
+
+
+What Algorithm would would you like to use? Enter the associated number. (1-5)
+1: MSS1 (3 Embedded Loops)
+2: MSS2 (2 Embedded Loops)
+3: MSS3 (Recursive QuickSelect)
+4: MSS4 (Single Loop)
+5: All 4 Algorithms At Once
+5
+
+---------------------------------------------------------------------------------------------------
+
+Invalid filename, file not found. Ensure file is spelled correctly and present in this directory.
+
+
+Would you like to repeat (y/n)?
+y
+
+
+Welcome to the MSS Algorithm Tester!
+What is the name of the file you would like to select?
+exfiles/test1.txt
+
+
+What Algorithm would would you like to use? Enter the associated number. (1-5)
+1: MSS1 (3 Embedded Loops)
+2: MSS2 (2 Embedded Loops)
+3: MSS3 (Recursive QuickSelect)
+4: MSS4 (Single Loop)
+5: All 4 Algorithms At Once
+notanint
+
+
+The algorithm selection entered was not an int 1-5. Try again.
+
+---------------------------------------------------------------------------------------------------
+
+The algorithm selection was invalid, please enter a number 1-5 to select.
+
+
+Would you like to repeat (y/n)?
+n
+
+
+Goodbye
+
+^[]0;sbodemar@lh-cslab-009:~/COMP285/proj1^G[sbodemar@lh-cslab-009 proj1]$ exit
+exit
+
+Script done on Sun 24 Feb 2019 03:24:09 AM PST
